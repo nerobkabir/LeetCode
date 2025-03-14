@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nerobkabir/LeetCode/tree/master/0200-number-of-islands) |
+| [0747-min-cost-climbing-stairs](https://github.com/nerobkabir/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/nerobkabir/LeetCode/tree/master/0100-same-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/nerobkabir/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
